@@ -1,0 +1,31 @@
+h1{
+  font-size: 36px;
+}
+h2 {
+  font-size: 36px;
+}
+h3 {
+  text-align: center;
+}
+#menu-categories {
+  background-color: lightgrey;
+}
+#menu-dropdown {
+  text-align: center;
+}
+#menu-dropdown hr {
+  width: 50%;
+  border-width: 2px;
+}
+button.navbar-toggle.collapsed {
+  margin-top: 22px;
+}
+div .col-xs-12 {
+  background-color: white;
+}
+
+div .col-xs-12 p {
+  background-color: lightgray;
+  padding: 10px;
+}
+
